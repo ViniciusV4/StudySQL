@@ -35,7 +35,7 @@ Esses relacionamentos ajudam a garantir a integridade dos dados e são essenciai
 
 ## No diagrama a baixo desenvolvi um modelo de banco de dados simples para um sistema que guarda notas fiscais.
 ### Diagrama:
-![[Pasted image 20240810182610.png]]
+![diagrama](https://github.com/ViniciusV4/StudySQL/blob/main/imagens/Pasted%20image%2020240810182610.png?raw=true)
 
 ### Comandos SQL para criar as tabelas modeladas acima:
 `CREATE TABLE Clientes (`
