@@ -1,5 +1,5 @@
 
-- O artigo a seguir tem como objetivo te ensinar na pratica e simples como funcionam os seguintes recursos em SQL:
+# O artigo a seguir tem como objetivo te ensinar na pratica e simples como funcionam os seguintes recursos em SQL:
 	-  **FUNÇÕES DE AGREGAÇÃO;**
 	- **JOIN**, **LEFT JOIN** E **UNION ALL**;
 	- **CASE.**
@@ -153,11 +153,11 @@ Este tipo de query é essencial quando você precisa incluir todos os registros 
 - Criei dois novos fornecedores e não associei nenhum produto a eles.
 
 **JOIN** ou **INNER JOIN:**
-![[Pasted image 20240810140041.png]]
+![JOIN](https://github.com/ViniciusV4/StudySQL/blob/main/imagens/Pasted%20image%2020240810140041.png?raw=true)
 ***Não retorna valores dos fornecedores novos, porque eles não tem produtos associado*** 
 
 **LEFT JOIN:**
-![[Pasted image 20240810140230.png]]
+![LEFT JOIN](https://github.com/ViniciusV4/StudySQL/blob/main/imagens/Pasted%20image%2020240810140230.png?raw=true)
 ***Retorna o valores da tabela da esquerda (fornecedor) mesmo que eles estejam nulos na outra tabela.***
 
 ### **Como funciona o `UNION ALL`:**
