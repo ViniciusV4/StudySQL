@@ -1,5 +1,5 @@
 
-# O artigo a seguir tem como objetivo te ensinar na pratica e simples como funcionam os seguintes recursos em SQL:
+# O artigo a seguir tem como objetivo te ensinar na pratica e de maneira simples como funcionam os seguintes recursos em SQL:
 	-  **FUNÇÕES DE AGREGAÇÃO;**
 	- **JOIN**, **LEFT JOIN** E **UNION ALL**;
 	- **CASE.**
